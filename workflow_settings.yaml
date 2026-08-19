@@ -3,4 +3,4 @@ defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.52
 vars:
-  lookback_days: 2
+  lookback_days: "2"
